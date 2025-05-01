@@ -1,0 +1,21 @@
+# PyCharm config files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Archives and backups
+*.zip
+*.tar.gz
+*.bak
